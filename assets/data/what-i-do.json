@@ -1,17 +1,22 @@
 [
-    {
-        "title": "Backend Development",
-        "icon": "fa-solid fa-server",
-        "description": "Developing reliable, maintainable, and scalable backend systems using Java and Python"
-    },
-    {
-        "title": "Cloud Engineering",
-        "icon": "fa-solid fa-cloud",
-        "description": "Designing scalable and cost-efficient cloud architectures using AWS and industry best practices"
-    },
-    {
-        "title": "DevOps",
-        "icon": "fa-solid fa-gears",
-        "description": "Implementing CI/CD pipelines and managing infrastructure as code using Terraform and Python scripting"
-    }
+  {
+    "title": "Frontend Development",
+    "icon": "fa-solid fa-code",
+    "description": "Building modern, responsive, and high-performance web applications using Angular, React, TypeScript, JavaScript, HTML5, and CSS3."
+  },
+  {
+    "title": "Backend Development",
+    "icon": "fa-solid fa-server",
+    "description": "Developing scalable REST APIs and enterprise applications using Node.js, Express.js, PHP, CodeIgniter, MySQL, and RESTful architectures."
+  },
+  {
+    "title": "System Architecture",
+    "icon": "fa-solid fa-diagram-project",
+    "description": "Designing scalable, maintainable, and secure software architectures with a focus on performance, clean code, and enterprise best practices."
+  },
+  {
+    "title": "AI & Automation",
+    "icon": "fa-solid fa-robot",
+    "description": "Exploring AI-powered solutions, workflow automation, API integrations, and intelligent applications using modern AI technologies."
+  }
 ]

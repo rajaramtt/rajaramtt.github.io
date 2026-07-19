@@ -1,57 +1,44 @@
 [
-    {
-        "title": "otp-cli-utils",
-        "description": "A simple command-line utility for validating TOTP (Time-based One-Time Password) codes",
-        "link": "https://github.com/dilanka-rathnasiri/otp-cli-utils"
-    },
-    {
-        "title": "py-sse-client",
-        "description": "A simple asynchronous Server Sent Events (SSE) client for Python using aiohttp",
-        "link": "https://github.com/dilanka-rathnasiri/py-sse-client"
-    },
-    {
-        "title": "portfolio",
-        "description": "My personal portfolio website built with Angular",
-        "link": "https://github.com/dilanka-rathnasiri/portfolio"
-    },
-    {
-        "title": "simple-k8s",
-        "description": "A minimal Kubernetes cluster setup to demonstrate essential tools for modern cloud native app development",
-        "link": "https://github.com/dilanka-rathnasiri/simple-k8s"
-    },
-    {
-        "title": "data-dashboard",
-        "description": "Sample data dashboard for visualizing and analyzing datasets",
-        "link": "https://github.com/dilanka-rathnasiri/data-dashboard"
-    },
-    {
-        "title": "todo-app",
-        "description": "Simple todo app built with Angular",
-        "link": "https://github.com/dilanka-rathnasiri/todo-app"
-    },
-    {
-        "title": "fork of iesl-chapter-web",
-        "description": "Fork of my contributions to the IESL Student Chapter of University of Moratuwa",
-        "link": "https://github.com/dilanka-rathnasiri/iesl-chapter-web"
-    },
-    {
-        "title": "k8s-hpa",
-        "description": "Simple cli app for calculation of horizontal pod autoscaler (HPA) in Kubernetes",
-        "link": "https://github.com/dilanka-rathnasiri/k8s-hpa"
-    },
-    {
-        "title": "terraform-aws-ec2",
-        "description": "A Terraform module to create an AWS EC2 instance",
-        "link": "https://github.com/dilanka-rathnasiri/terraform-aws-ec2"
-    },
-    {
-        "title": "s3-with-versioning",
-        "description": "Pulumi TypeScript infrastructure as code for AWS S3 bucket with versioning and lifecycle policies",
-        "link": "https://github.com/dilanka-rathnasiri/s3-with-versioning"
-    },
-    {
-        "title": "simple-utils",
-        "description": "A simple set of utils for day-to-day use",
-        "link": "https://github.com/dilanka-rathnasiri/simple-utils"
-    }
+  {
+    "title": "Site Health Advisor (AI-Powered)",
+    "description": "AI-powered website health analysis tool that evaluates SEO, security, accessibility, performance, and best practices with actionable recommendations. Built for Network Solutions.",
+    "technologies": "Angular, TypeScript, Node.js, REST APIs, AI",
+    "link": "https://www.networksolutions.com/site-health-advisor/"
+  },
+  {
+    "title": "NetworkSolutions UPP",
+    "description": "Enterprise web platform for one of the world's leading domain registrars, delivering scalable customer experiences and integrating multiple internal and third-party services.",
+    "technologies": "Angular, Java, MySQL, Material Design, REST APIs",
+    "link": ""
+  },
+  {
+    "title": "DayaMed",
+    "description": "Healthcare platform leveraging AI, real-time monitoring, Twilio, and Zoom to improve patient engagement, medication adherence, and clinical outcomes.",
+    "technologies": "Angular, Java, MySQL, Twilio, Zoom",
+    "link": ""
+  },
+  {
+    "title": "Investment Link",
+    "description": "Investment management platform for financial professionals with portfolio management, client onboarding, and secure financial workflows.",
+    "technologies": "Symfony, AngularJS, MySQL, WordPress",
+    "link": ""
+  },
+  {
+    "title": "Condition HUB",
+    "description": "Cloud-based automotive workflow management system for dealerships, helping manage inspections, service workflows, and technician operations.",
+    "technologies": "Symfony, AngularJS, MySQL",
+    "link": ""
+  },
+  {
+    "title": "Avail On The Go",
+    "description": "Fitness and physical therapy platform featuring workout management, subscriptions, trainers, and client engagement.",
+    "technologies": "Node.js, Express.js, MySQL",
+    "link": ""
+  },
+  {
+    "title": "LimoRide",
+    "description": "Transportation management platform for limousine services with CRM, employee management, booking, attendance, finance, and reporting modules.",
+    "technologies": "PHP, CodeIgniter, MySQL, jQuery",
+    "link": ""
+  }
 ]

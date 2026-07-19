@@ -1,81 +1,67 @@
 [
-    {
-        "category": "Languages & Frameworks",
-        "skills": [
-            { "name": "Java", "icon": "fa-brands fa-java text-red-500" },
-            { "name": "Python", "icon": "fa-brands fa-python text-blue-500" },
-            { "name": "Go", "icon": "fa-brands fa-golang text-cyan-500" },
-            {
-                "name": "Spring Boot",
-                "icon": "fa-solid fa-leaf text-green-500"
-            },
-            { "name": "FastAPI", "icon": "fa-solid fa-bolt text-teal-500" }
-        ]
-    },
-    {
-        "category": "Containers & Orchestration",
-        "skills": [
-            {
-                "name": "Kubernetes",
-                "icon": "fa-solid fa-dharmachakra text-blue-600"
-            },
-            { "name": "Docker", "icon": "fa-brands fa-docker text-blue-400" },
-            {
-                "name": "Amazon EKS",
-                "icon": "fa-solid fa-cubes text-orange-400"
-            },
-            {
-                "name": "Amazon ECS",
-                "icon": "fa-solid fa-cube text-orange-400"
-            },
-            { "name": "Knative", "icon": "fa-solid fa-server text-blue-500" }
-        ]
-    },
-    {
-        "category": "Cloud & DevOps",
-        "skills": [
-            { "name": "AWS", "icon": "fa-brands fa-aws text-orange-500" },
-            {
-                "name": "Terraform",
-                "icon": "fa-solid fa-cloud-arrow-up text-purple-500"
-            },
-            {
-                "name": "GitLab CI/CD",
-                "icon": "fa-brands fa-gitlab text-orange-600"
-            }
-        ]
-    },
-    {
-        "category": "APIs & Databases",
-        "skills": [
-            {
-                "name": "REST API",
-                "icon": "fa-solid fa-exchange-alt text-slate-500"
-            },
-            {
-                "name": "Envoy Gateway",
-                "icon": "fa-solid fa-hexagon text-fuchsia-500"
-            },
-            { "name": "ApiDog", "icon": "fa-solid fa-bone text-blue-500" },
-            {
-                "name": "PostgreSQL",
-                "icon": "fa-solid fa-database text-blue-600"
-            },
-            { "name": "Redis", "icon": "fa-solid fa-layer-group text-red-600" }
-        ]
-    },
-    {
-        "category": "Observability & Monitoring",
-        "skills": [
-            {
-                "name": "Datadog",
-                "icon": "fa-solid fa-paw text-purple-600"
-            },
-            { "name": "Fluent Bit", "icon": "fa-solid fa-dove text-cyan-500" },
-            {
-                "name": "AWS CloudWatch",
-                "icon": "fa-solid fa-magnifying-glass-chart text-orange-500"
-            }
-        ]
-    }
+  {
+    "category": "Frontend",
+    "skills": [
+      { "name": "Angular", "icon": "fa-brands fa-angular text-red-600" },
+      { "name": "React", "icon": "fa-brands fa-react text-cyan-500" },
+      { "name": "TypeScript", "icon": "fa-solid fa-code text-blue-600" },
+      { "name": "JavaScript (ES6+)", "icon": "fa-brands fa-js text-yellow-400" },
+      { "name": "HTML5", "icon": "fa-brands fa-html5 text-orange-500" },
+      { "name": "CSS3", "icon": "fa-brands fa-css3-alt text-blue-500" },
+      { "name": "SCSS / Sass", "icon": "fa-brands fa-sass text-pink-500" },
+      { "name": "Angular Material", "icon": "fa-solid fa-palette text-indigo-500" }
+    ]
+  },
+  {
+    "category": "Backend",
+    "skills": [
+      { "name": "Node.js", "icon": "fa-brands fa-node-js text-green-600" },
+      { "name": "Express.js", "icon": "fa-solid fa-server text-gray-600" },
+      { "name": "PHP", "icon": "fa-brands fa-php text-indigo-500" },
+      { "name": "CodeIgniter", "icon": "fa-solid fa-code-branch text-red-500" },
+      { "name": "Symfony", "icon": "fa-solid fa-cubes text-black" },
+      { "name": "REST APIs", "icon": "fa-solid fa-plug text-blue-500" },
+      { "name": "JWT Authentication", "icon": "fa-solid fa-shield-halved text-green-500" }
+    ]
+  },
+  {
+    "category": "Databases",
+    "skills": [
+      { "name": "MySQL", "icon": "fa-solid fa-database text-blue-600" },
+      { "name": "MongoDB", "icon": "fa-solid fa-leaf text-green-600" }
+    ]
+  },
+  {
+    "category": "Cloud, AI & Integrations",
+    "skills": [
+      { "name": "OpenAI APIs", "icon": "fa-solid fa-brain text-emerald-500" },
+      { "name": "AI Integrations", "icon": "fa-solid fa-robot text-violet-500" },
+      { "name": "Third-party APIs", "icon": "fa-solid fa-link text-blue-500" },
+      { "name": "Twilio", "icon": "fa-solid fa-phone text-green-500" },
+      { "name": "Zoom APIs", "icon": "fa-solid fa-video text-sky-500" }
+    ]
+  },
+  {
+    "category": "Tools & Platforms",
+    "skills": [
+      { "name": "Git", "icon": "fa-brands fa-git-alt text-orange-600" },
+      { "name": "GitHub", "icon": "fa-brands fa-github text-black" },
+      { "name": "Jira", "icon": "fa-brands fa-jira text-blue-500" },
+      { "name": "VS Code", "icon": "fa-solid fa-code text-blue-500" },
+      { "name": "Webpack", "icon": "fa-solid fa-cube text-sky-500" },
+      { "name": "npm", "icon": "fa-brands fa-npm text-red-600" },
+      { "name": "Artifactory", "icon": "fa-solid fa-box-archive text-purple-500" }
+    ]
+  },
+  {
+    "category": "Architecture & Practices",
+    "skills": [
+      { "name": "System Design", "icon": "fa-solid fa-diagram-project text-indigo-600" },
+      { "name": "Microservices", "icon": "fa-solid fa-network-wired text-blue-500" },
+      { "name": "Single Page Applications", "icon": "fa-solid fa-window-maximize text-cyan-500" },
+      { "name": "Responsive Design", "icon": "fa-solid fa-mobile-screen text-green-500" },
+      { "name": "Performance Optimization", "icon": "fa-solid fa-gauge-high text-orange-500" },
+      { "name": "Agile / Scrum", "icon": "fa-solid fa-users text-blue-500" }
+    ]
+  }
 ]
